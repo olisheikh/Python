@@ -1,0 +1,6 @@
+Welcome to the programming.
+How are you doing?
+Do you know Python?
+I am learning Python.
+Python is a very easy language.
+Good Bye.
