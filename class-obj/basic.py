@@ -14,3 +14,6 @@ y = MyClass()
 
 print(y.i)
 print(x.i)
+
+print(type(MyClass))
+print(type(x))
